@@ -1,0 +1,9 @@
+C:\Users\ninja\source\repos\APITest\APITest\bin\Release\net10.0\publish\APITest.exe
+C:\Users\ninja\source\repos\APITest\APITest\bin\Release\net10.0\publish\appsettings.Development.json
+C:\Users\ninja\source\repos\APITest\APITest\bin\Release\net10.0\publish\appsettings.json
+C:\Users\ninja\source\repos\APITest\APITest\bin\Release\net10.0\publish\APITest.dll
+C:\Users\ninja\source\repos\APITest\APITest\bin\Release\net10.0\publish\APITest.deps.json
+C:\Users\ninja\source\repos\APITest\APITest\bin\Release\net10.0\publish\APITest.runtimeconfig.json
+C:\Users\ninja\source\repos\APITest\APITest\bin\Release\net10.0\publish\APITest.pdb
+C:\Users\ninja\source\repos\APITest\APITest\bin\Release\net10.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ninja\source\repos\APITest\APITest\bin\Release\net10.0\publish\Microsoft.OpenApi.dll
